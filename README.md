@@ -1,6 +1,6 @@
 # Nexter
 -------------
-A site where you can purchase your dream home. Created while learning CSS, Sass and Grid. Designed by Johnas Schmedtmann.
+A site where you can purchase your dream home. Recreated while learning CSS, Sass and Grid. Designed by Johnas Schmedtmann.
 
 ### Technologies
 -------------
